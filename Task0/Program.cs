@@ -10,6 +10,6 @@
 }
 
 string[] array1 = new string[] { "зеленый", "три", "3?", "ывнтпм", "fr" };
-ArrayMin3(array1);
+ArrayMin3(array1); 
 
 
